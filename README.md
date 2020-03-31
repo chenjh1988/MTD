@@ -55,7 +55,7 @@ optional arguments:
   --use_bias            use bias
   --save_tk             save recommendation result
 ```
-
+For example: `python main.py --dataset=diginetica`
 
 ## Requirements
 python 3.6
