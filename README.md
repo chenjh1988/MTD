@@ -29,7 +29,7 @@ optional arguments:
                         diginetica/yoochoose1_4/yoochoose1_64/sample
   --method METHOD       sa
   --validation          validation
-  --epoch EPOCH         number of epochs to train for
+  --epoch EPOCH         number of epochs to train
   --batch_size BATCH_SIZE
                         input batch size
   --hidden_size HIDDEN_SIZE
